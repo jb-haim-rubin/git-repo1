@@ -1,7 +1,6 @@
 # git-repo1
 This is a test
 
-000000
 
 This is the 3rd test
 
